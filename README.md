@@ -18,7 +18,7 @@ The following items should be tested end to end…
 
 Resources for development…
 
-h[ttps://github.com/Vito-Research/Vito_Swift_API](https://github.com/Vito-Research/Vito_Swift_API)
+[https://github.com/Vito-Research/Vito_Swift_API](https://github.com/Vito-Research/Vito_Swift_API)
 
 [GitHub - Vito-Research/Vito-State_Kotlin](https://github.com/Vito-Research/Vito-State_Kotlin)
 
